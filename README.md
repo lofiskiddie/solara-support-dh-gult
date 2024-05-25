@@ -1,7 +1,4 @@
-local function getnamecall() -- u can add placeid detector with all namecalls & remotes if we want later on
-    return "UpdateMousePos1"
-end
- 
+
  local namecalltype = getnamecall()
  
 local function MainEventLocate()
